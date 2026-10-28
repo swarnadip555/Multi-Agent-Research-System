@@ -1,5 +1,8 @@
 # ResearchMind 🧠✨
 
+<img width="960" height="600" alt="Screenshot 2026-10-28 140452" src="https://github.com/user-attachments/assets/41ec8d77-90b7-4b82-8163-17a0e1330f20" />
+
+
 > **Multi-Agent AI System** that automates deep web research, content scraping, synthesis, and critique to deliver polished research reports on any topic[span_0](start_span)[span_0](end_span).
 
 ---
